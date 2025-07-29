@@ -1,37 +1,31 @@
 ## About syskomp gehmeyr GmbH
 
-The **syskomp group** is a mid-size European industrial tech company focused on **assembly technology and manual automation**. With over 50 years of experience, it brings together three main companies:
+**syskomp group** is a European mid​-size industrial technology group delivering tailored solutions in **assembly technology with a strong focus on manual automation**. With roots stretching back over 50 years, the group unites **syskomp gehmeyr GmbH** (Germany), **bfm GmbH** (Austria), and the **emico** division in Amberg and Italy.
 
-- **syskomp gehmeyr GmbH** (Germany)
-- **bfm GmbH** (Austria)
-- **emico** (Germany/Italy)
+### Headquarters & Locations
 
-### Locations
+- **syskomp gehmeyr GmbH**: Amberg (HQ) and Regensburg site
+- **bfm GmbH**: Wöllersdorf, Austria, serving the Austrian market with local delivery of group-wide innovation
+- **emico**: Focused on plastic and metal standard parts, based in Amberg and Cavaion Veronese (Italy), offering over **20,000 products**, including custom components
 
-- **Amberg (HQ)** and a site in **Regensburg**, Germany  
-- **Wöllersdorf**, Austria — serving local markets  
-- **Cavaion Veronese**, Italy — plus Amberg — for plastic and metal standard parts (over 20,000 products, including custom components)
+### What We Do
 
-### What We Offer
+- Planning, consulting, and building custom industrial solutions: ergonomic workstations, modular conveyor systems, lifting units, safety enclosures, damping tech, pneumatics, and more
+- Specialized in **manual automation solutions** that enhance operator efficiency and safety while maintaining flexibility and control
+- Emphasis on **scalability, flexibility, and cost-efficiency**, enabling smooth production modernization one step at a time
+- B2B online shop offering aluminium profile kits, connectors, workplace systems, roller and belt conveyors, damping technology, lift gates, industrial tools, and plastic components via emico
+- Unique configurator for aluminium extrusions: supports cut-to-length, pre-drilled holes, and standard machining for a wide range of connector systems
+- **Real-time price calculation** for cut-to-length profiles and other configurable products in both the shop interface and landing pages
+- **Individual customer pricing**: registered users benefit from personalized pricing structures in the online shop based on negotiated terms
 
-- Industrial solutions like workstations, conveyor systems, lift units, safety enclosures, and more
-- A strong focus on **manual automation**, helping operators work more efficiently and safely
-- Modular, scalable systems built to grow with your needs
-- A full-featured **B2B online shop** with:
-  - Aluminium profile kits and accessories
-  - Workplace systems, conveyors, damping components, lift gates, tools, and plastic parts
-  - A smart configurator for aluminium extrusions (cut-to-length, drilled, and machined for connectors)
-  - **Live pricing** as you configure components
-  - **Customer-specific pricing** based on agreements or order history
+### Why Choose Us
 
-### Why syskomp
+- Integrated expertise across planning, design, implementation, and commissioning
+- ISO​-certified (9001, 45001, 14001)
+- Driven by values: **innovation, integrity, sustainability**, and a people-first, team-oriented culture with around **200 employees**
 
-- We cover everything: planning, design, build, and delivery
-- Certified for ISO 9001, 45001, 14001
-- About 200 people working across multiple countries with a focus on practical innovation, collaboration, and long-term support
+---
 
-### For Your Projects
+### Tailored for Your Projects
 
-If you're working on streamlining workflows, upgrading production, or improving ergonomics, we can help. Our tools and systems are made to fit your space, your team, and your pace.
-
-Want to get hands-on with modular automation or profile-based construction? Head over to our [online shop](https://shop.syskomp-group.com) or check out more about us at [syskomp-group.com](https://www.syskomp-group.com).
+Looking to streamline intralogistics, improve operator workflows, or modernize your assembly lines? We combine **deep automation know-how** with modular, user-centric design, especially in the realm of **manual automation**. Whether you're designing a lean production line or ergonomics-heavy workstations, we’ve got the expertise and products to support your goals.
